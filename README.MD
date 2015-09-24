@@ -14,7 +14,8 @@ FILE LOG
 2. life_of_barold.py
 3. loading.py
 4. doh.wav
-3. README.MD
+5. woohoo.wav
+6. README.MD
 
 SETUP INSTRUCTIONS
 note: you must have python to run this game
@@ -29,3 +30,6 @@ This is a simple text-based math game. It asks the user to solve math problems. 
 This game is mostly a learning exercise for myself. I wanted to learn a little bit about classes, importing modules, and making a simple text-based game.
 
 This is an alpha version. It's not a finished product. Content and extra functionality are lacking. Documentation/content is sorely lacking. The code is not optimized nor does it represent good style.
+
+LICENSING INFORMATION
+GNU GPLv3
