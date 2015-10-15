@@ -19,6 +19,7 @@ Version: alpha 0.75
 
 ## SETUP INSTRUCTIONS
 note: you must have python to run this game
+
 1. download the file 'life_of_barold'
 1. from the command line, change directory to this directory
 1. type $ python life_of_barold.py
