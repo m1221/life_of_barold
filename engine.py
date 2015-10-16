@@ -163,7 +163,7 @@ dayEvents = {
   },
   '2': {
     'name': 'Emergency situation! - DATA LOSS',
-    'descrip': 'One of your idiot coworks went out of town while he was on call and didn\'t bring his beeper with him. So when there was a hard drive failure on the RAID array he was supposed to be watching, he was unaware of it and therefore could not take the appropriate course of action nor could he contact someone to take the appropriate course of action. Soon thereafter, another disk failed, resulting in permanent data loss. Explain to your bosses that the data is lost forever.' ,
+    'descrip': 'One of your coworkers went out of town while he was on call and didn\'t bring his beeper with him. So when there was a hard drive failure in the RAID 5 array he was supposed to be watching, he was unaware of it and therefore could not take the appropriate course of action nor could he contact someone to take the appropriate course of action. Soon thereafter, another disk failed, resulting in permanent data loss. Explain to your bosses that the data is lost forever.' ,
     'difficulty': 3, # 1-3
     'passEffect': [150, 0],
     'failEffect': [150, -75],
@@ -203,7 +203,7 @@ dayEvents = {
   },
   '7': {
     'name': 'Special Mission - IN THE CLOUD',
-    'descrip': 'Your bosses call you in for a special meeting. They tell you how one of them read an article in People about how the Cloud is an important technology for business that want to stay relevant. They want you to be in charge of migrating the company\'s data to the cloud. They\'ve charted a few airplanes to help you get them there and give you a company credit card to buy things you\'ll need for this operation. Figure out how to give them what they want.' ,
+    'descrip': 'One of your bosses call you in for a special meeting. They tell you how one of them read an article in People about how the Cloud is an important technology for business that want to stay relevant. He wants you to be in charge of migrating the company\'s data to the cloud. He\'s charted a few airplanes to help you get the data there and gives you a company credit card to buy things you\'ll need for this operation. Figure out how to give him what he wants.' ,
     'difficulty': 4, # 1-3
     'passEffect': [700, 50],
     'failEffect': [150, -25],
@@ -235,7 +235,7 @@ dayEvents = {
   },
   '11': {
     'name': 'Routine Work - Half Day',
-    'descrip': 'Some of your bosses rock. Bob, is one of those bosses, tells you that if you can do quick server configuration for him, you can take the rest of the day off.' ,
+    'descrip': 'Some of your bosses rock. Bob, is one of those bosses, tells you that if you can do quick server configuration for a special client, you can take the rest of the day off.' ,
     'difficulty': 1, # 1-3
     'passEffect': [300, 35],
     'failEffect': [150, 0],
