@@ -2,12 +2,12 @@
 This game is dedicated to our friend, whose wit and candor bring us laughter and truth.
 
 ## SOFTWARE/AUTHOR INFORMATION
-Author Name: Mario P.
-GitHub: m1221
-Python/OS V: Python 2.7.10 Windows 8.1
-Date of initial release: 09/24/2015
-Date of most recent release: 09/24/2015
-Version: alpha 0.75
+- Author Name: Mario P.
+- GitHub: m1221
+- Python/OS V: Python 2.7.10 Windows 8.1
+- Date of initial release: 09/24/2015
+- Date of most recent release: 09/24/2015
+- Version: alpha 0.75
 
 ## FILE LOG
 1. engine.py
